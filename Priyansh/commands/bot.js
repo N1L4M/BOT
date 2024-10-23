@@ -330,7 +330,7 @@ if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsim"
 
   
  if ((event.body.indexOf("owner") >= 0 ) || (event.body.toLowerCase() == "create you")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞𝐀𝐲𝐮𝐬𝐡 𝐒𝐡𝐮𝐤𝐥𝐚☜ \n 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Ayush Shukla. \n 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- \n https://www.facebook.com/100042292561861?mibextid=ZbWKwL", threadID, messageID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈☜ \n 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Ayush Shukla. \n 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- \n https://www.facebook.com/100042292561861?mibextid=ZbWKwL", threadID, messageID);
    };
 
   
@@ -343,7 +343,7 @@ if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsim"
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")|| (event.body.toLowerCase() == "admin kon h bot ka")) {
-     return api.sendMessage("He is Ayush Shukla.", threadID, messageID);
+     return api.sendMessage("He Is Owner Nilam Rai.", threadID, messageID);
    };
 
    if ((event.body.toLowerCase() == "has the bot eaten yet") || (event.body.toLowerCase() == "bot an comrade")) {
