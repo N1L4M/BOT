@@ -25,10 +25,10 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
     if (body === i.toUpperCase() | body === i | str === body) {
 const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (data.PREFIX == null) {
-        return out(`This Is My Prefix ⇉ [ ${prefix} ]\n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐀𝐲𝐮𝐬𝐡 𝐒𝐡𝐮𝐤𝐥𝐚☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐲𝐮𝐬𝐡🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/100042292561861\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @Ayush0249😇`)
+        return out(`𝐓𝐇𝐈𝐒 𝐈𝐒 𝐌𝐘 𝐏𝐑𝐄𝐅𝐈𝐗 ⇉ [ ${prefix} ]\n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈☜ 💫\n🖤𝐘𝐎𝐔 𝐂𝐀𝐍 𝐂𝐀𝐋𝐋 𝐌𝐄 𝐍𝐈𝐋𝐔🖤\n😳𝐇𝐈𝐒 𝐌𝐘 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 💙:- ☞ https://www.facebook.com/profile.php?id=61566744287237\n
+👋𝐅𝐨𝐫 𝐀𝐧𝐲 𝐊𝐢𝐧𝐝 𝐎𝐟 𝐇𝐞𝐥𝐩 𝐂𝐨𝐧𝐭𝐞𝐜𝐭 𝐎𝐧 𝐖𝐡𝐚𝐭 𝐌𝐞 👉 +𝟏𝟑𝟏𝟑********😇`)
       }
-      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ ${prefix} ]  \n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐀𝐲𝐮𝐬𝐡 𝐒𝐡𝐮𝐤𝐥𝐚☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐲𝐮𝐬𝐡🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/100042292561861\n👋For Any Kind Of Help Contact On Telegram  Username 👉 @Ayush0249😇' + data.PREFIX)
+      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️𝐓𝐇𝐈𝐒 𝐈𝐒 𝐌𝐘 𝐏𝐑𝐄𝐅𝐈𝐗 ⇉ [ ${prefix} ]  \n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈☜ 💫\n🖤𝐘𝐎𝐔 𝐂𝐀𝐍 𝐂𝐀𝐋𝐋 𝐇𝐈𝐌 𝐍𝐈𝐋𝐔🖤\n😳𝐇𝐈𝐒 𝐌𝐘 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃💙:- ☞ https://www.facebook.com/profile.php?id=61566744287237\n👋𝐅𝐨𝐫 𝐀𝐧𝐲 𝐊𝐢𝐝 𝐎𝐟 𝐇𝐞𝐥𝐩 𝐂𝐨𝐧𝐭𝐞𝐜𝐭 𝐎𝐧 𝐖𝐡𝐚𝐭 𝐌𝐞 👉 +𝟏𝟑𝟏𝟑********😇' + data.PREFIX)
     }
 
   });
